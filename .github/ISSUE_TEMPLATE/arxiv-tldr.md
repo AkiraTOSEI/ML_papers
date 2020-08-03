@@ -1,7 +1,7 @@
 ---
 name: Arxiv TLDR
 about: Describe this issue template's purpose here.
-title: Arxiv_Issue
+title: "(Paper title)"
 labels: ''
 assignees: ''
 
@@ -16,7 +16,7 @@ assignees: ''
 # Paper URL
 
 
-# Submission Dates
+# Submission Dates(yyyy/mm/dd)
 
 
 # Authors and institutions
